@@ -2,7 +2,7 @@
 
 Daniel Hagimont
 hagimont@enseeiht.fr
-Đặng Thái Sơn BA9-053
-Đỗ Công Hòa BA9-022
-Nguyễn Minh Hiếu BA9-020
-Phạm Ngọc Mai Lâm BA9-030
+Đặng Thái Sơn sondt.ba9053@st.usth.edu.vn
+Đỗ Công Hòa hoadc.ba9022@st.usth.edu.vn
+Nguyễn Minh Hiếu hieunm.ba9020@st.usth.edu.vn
+Phạm Ngọc Mai Lâm lampnm.ba9030@st.usth.edu.vn
