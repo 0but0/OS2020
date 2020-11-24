@@ -1,0 +1,2 @@
+-We can run 1 command (ex: ls, cd, ps -ef)
+-We can also run 2 commands "ps -ef | grep firefox" 
